@@ -13,4 +13,4 @@ Over the last summer, I spent my time completing an online course for CT300. I a
 
 #Chase Watkins
 
-over the summer I spent most of my time working and saving up money. Usually when I wasn't working I was spending my time with on my hobbies, art and programming. I also learned the basics of MonoGame, a C# framework for game development.
+Over the summer I spent most of my time working and saving up money. Usually when I wasn't working I was spending my time with on my hobbies, art and programming. I also learned the basics of MonoGame, a C# framework for game development.
