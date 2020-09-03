@@ -7,6 +7,3 @@ Over the summer I had an internship at Lockheed Martin where I coded missiles & 
 Over the summer I worked full time for the company I interned for two years ago. I helped to manage and instruct the new interns for this year as well as continued my own work on site development and server maintenance. 
 
 
-#Haden Foster
-
-Over the last summer, I spent my time completing an online course for CT300. I also spent a lot of time working with my uncle learning how to be proficient with tools and other handy skills. When I wasn't working with my uncle, I was reading and trying to brush up on my Java skills. 
