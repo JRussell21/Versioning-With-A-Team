@@ -10,3 +10,6 @@ Over the summer I worked full time for the company I interned for two years ago.
 #Haden Foster
 
 Over the last summer, I spent my time completing an online course for CT300. I also spent a lot of time working with my uncle learning how to be proficient with tools and other handy skills. When I wasn't working with my uncle, I was reading and trying to brush up on my Java skills. 
+
+#Zachary Criswell
+This summer I worked two jobs. I worked at Target full time and Aldi part time. As a result I was able to make more moeney this summer than ever before, but I also had very little time for freinds or hobbyies. Although I did go on a fun tree climbing obsticle course with my family for a day. 
