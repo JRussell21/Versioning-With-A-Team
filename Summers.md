@@ -10,3 +10,7 @@ Over the summer I worked full time for the company I interned for two years ago.
 #Haden Foster
 
 Over the last summer, I spent my time completing an online course for CT300. I also spent a lot of time working with my uncle learning how to be proficient with tools and other handy skills. When I wasn't working with my uncle, I was reading and trying to brush up on my Java skills. 
+
+#Chase Watkins
+
+over the summer I spent most of my time working and saving up money. Usually when I wasn't working I was spending my time with on my hobbies, art and programming. I also learned the basics of MonoGame, a C# framework for game development.
